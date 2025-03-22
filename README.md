@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Soham Chatterjee
-- 👀 I’m interested in .tech stacks..
-- 🌱 I’m currently learning  dsa,web dev and ml..
-- 💞️ I’m looking to collaborate on any projects of web dev and ml..
+- 👀 I’m interested in tech stacks..
+- 🌱 I’m currently learning  dsa,data analytics and ml..
+- 💞️ I’m looking to collaborate on any projects of data analytics 
 - 📫  reach me at sohamch03@gmail.com..
 - 
   
